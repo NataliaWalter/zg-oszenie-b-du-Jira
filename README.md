@@ -1,1 +1,1 @@
-# zg-oszenie-b-du-Jira
+# zgloszenie-bledu-Jira
