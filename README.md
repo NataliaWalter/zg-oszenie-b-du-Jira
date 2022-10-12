@@ -1,0 +1,1 @@
+# zg-oszenie-b-du-Jira
